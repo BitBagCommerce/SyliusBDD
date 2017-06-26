@@ -1,0 +1,7 @@
+services:
+    app.behat.page.create_book:
+        class: App\Behat\Page\Book\CreatePage
+        parent: sylius.behat.page.admin.crud.create
+        public: false
+        arguments:
+            - "app_admin_book_create"

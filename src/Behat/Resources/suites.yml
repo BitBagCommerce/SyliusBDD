@@ -1,0 +1,9 @@
+default:
+    suites:
+        ui_managing_books:
+            contexts_services:
+                - sylius.behat.context.setup.admin_security
+
+                - app.behat.context.book
+            filters:
+                tags: "@managing_books && @ui"

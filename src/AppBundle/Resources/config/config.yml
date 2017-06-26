@@ -1,0 +1,6 @@
+sylius_resource:
+    resources:
+        app.book:
+            classes:
+                model: AppBundle\Entity\Book
+                form: AppBundle\Form\Type\BookType

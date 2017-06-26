@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: AppBundle
+        psr4_prefix: AppBundle
+        src_path: .

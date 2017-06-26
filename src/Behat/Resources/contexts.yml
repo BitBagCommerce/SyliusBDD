@@ -1,0 +1,8 @@
+services:
+    app.behat.context.book:
+        class: App\Behat\Context\BookContext
+        arguments:
+            - "@app.behat.page.create_book"
+            - "@sylius.behat.notification_checker"
+        tags:
+            - { name: fob.context_service }
