@@ -1,5 +1,5 @@
 ![Sylius](http://demo.sylius.org/assets/shop/img/logo.png)
-![BitBag](https://bitbag.shop/static/bitbag-logo.png)
+![BitBag](https://bitbag.shop/static/bitbag-logo.png?v=1)
 
 **This is Sylius Standard Edition repository for the purposes of BitBagBlog about Sylius Behavioral-driven development process.**
 
