@@ -1,4 +1,4 @@
-![BitBag](https://bitbag.shop/static/bitbag-sylius.png)
+![BitBag](https://bitbag.pl/static/bitbag-sylius.png)
 
 **This is Sylius Standard Edition repository for the purposes of BitBagBlog about Sylius Behavioral-driven development process.**
 
